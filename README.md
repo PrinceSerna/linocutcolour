@@ -1,8 +1,8 @@
 <img src = "images/IMG_6962.jpg" width="800" >
 
-<img src = "images/IMG_6963.jpg" width="800" >&nbsp;&nbsp;<img src = "images/IMG_6964.jpg" width="400" >
+<img src = "images/IMG_6963.jpg" width="400" >&nbsp;&nbsp;<img src = "images/IMG_6964.jpg" width="400" >
 <img src = "images/IMG_6949.jpg" width="400" >&nbsp;&nbsp;<img src = "images/IMG_6953.jpg" width="400" >
-<img src = "images/IMG_6959.jpg" width="400" >&nbsp;&nbsp;<img src = "images/IMG_6960.jpg width="400" >
+<img src = "images/IMG_6959.jpg" width="400" >&nbsp;&nbsp;<img src = "images/IMG_6960.jpg" width="400" >
 
  
 ## I Ran...
