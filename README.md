@@ -6,7 +6,7 @@
 Material: Acid free 135lb paper <br>
 
 *dimensions: 30.48cm(H) x 45.72cm(W)  |  12"(H) x 18"(W)* <br>
-*Original Three-Colour Process linocut.* <br> 
+*Original Three-Colour Process Linocut.* <br> 
 *Limited edition. Eight Prints Produced* <br>
 *Handmade & hand printed.* <br>
 *Image courtesy of the artist.* <br>
